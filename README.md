@@ -26,7 +26,7 @@
   ## Usage
 
   ```
-  nothing
+  npm start
   ```
   Link to deployed application: https://salty-plains-51556.herokuapp.com/ 
   
