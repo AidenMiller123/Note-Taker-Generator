@@ -14,7 +14,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Tests](#tests)
-  - [Contributing](#contributing)
   - [Questions](#questions)
   - [License](#license)
   
@@ -33,7 +32,7 @@
   
   Screenshot of delpoyed application:
   
-  ![image](https://user-images.githubusercontent.com/123018143/231626221-c38ce84c-211a-4656-9c9a-24e6807cd0cb.png) 
+  ![image](https://user-images.githubusercontent.com/123018143/231627016-220264c7-cadf-4dc0-bf5c-1804799bb46a.png)
   
   ![image](https://user-images.githubusercontent.com/123018143/231626221-c38ce84c-211a-4656-9c9a-24e6807cd0cb.png)
   
@@ -45,10 +44,6 @@
   npm run test
   ```
 
-
-  ## Contributing
-  
-  nothing
   
   ## Questions
   
