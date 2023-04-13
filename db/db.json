@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Reschedule delivery",
+        "text": "Reschedule delivery that was meant for this Monday and change it to Wednesday.",
+        "note_id": "5c05b1c0-6310-46ee-bd77-b50e82023a67"
+    },
+    {
+        "title": "Finish Payroll",
+        "text": "Finish company payroll by Thursday ",
+        "note_id": "acc0aaf2-2a2e-4c22-ad65-53d5f2d559cc"
+    },
+    {
+        "title": "Check In with Clients",
+        "text": "Call my clients to make sure there needs are met",
+        "note_id": "a9e0b1e6-3274-48ab-9b5a-ff0ebf44512e"
+    },
+    {
+        "title": "Client Lunch on Thursday",
+        "text": "Lunch with client Thursday at HopCat Bar and Grill",
+        "note_id": "5eb5a40a-28c3-4ccc-a478-866ab66a4e50"
+    }
+]
